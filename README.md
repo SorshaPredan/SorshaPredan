@@ -1,7 +1,8 @@
 # Forest-Environmental-Sciences
 ## Forest Ecology | Plant Pathology | Environmental Research
 
-# About Me
+
+### About Me
 
 I hold a Master's degree in Natural Sciences and Environmental Management, with a strong interest in forest ecology, plant pathology and environmental research.
 
