@@ -29,6 +29,7 @@ I am particularly interested in forest conservation, dendrochronology and the ap
 - RingIndicator
 - CoreComparison
 - COFECHA – tree-ring data quality control and crossdating.
+The paper where the entire pipeline is described [here](https://www.sciencedirect.com/science/article/pii/S1125786525000578?via%3Dihub).
 #### Scientific Documentation & Productivity
 - Microsoft Word and PowerPoint.
 - Markdown – technical documentation.
