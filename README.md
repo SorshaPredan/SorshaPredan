@@ -12,7 +12,7 @@ My academic and research experience has allowed me to explore forest ecosystems,
 I am particularly interested in forest conservation, dendrochronology and the application of scientific methods to environmental assessment.
 
 
-### Research Interests
+### Research Interests 🌳
 - Forest Ecology: forest dynamics, tree growth, forest health and ecosystem conservation.
 - Dendrochronology: tree-ring analysis, radial growth patterns and the study of tree responses to environmental stress.
 - Plant Pathology: plant health, bark necrosis and the interactions between trees and environmental factors.
@@ -20,7 +20,7 @@ I am particularly interested in forest conservation, dendrochronology and the ap
 - Remote Sensing: application of remote sensing techniques to environmental analysis and ecosystem monitoring.
 
 
-### Technical Skills
+### Technical Skills 💻
 #### Data Management & Statistical Analysis
 - Microsoft Excel – dataset organization and data management.
 - R – statistical analysis and environmental data processing.
@@ -38,7 +38,7 @@ The paper where the entire pipeline is described [here](https://www.sciencedirec
 - LaTeX – scientific writing and document formatting.
 
 
-### Academic Background
+### Academic Background 🎓
 #### MSc in Natural Sciences and Environmental Management (LM-60)
 Department of Biological, Geological and Environmental Sciences (BiGeA)
 University of Bologna, Italy
@@ -49,7 +49,7 @@ University of Bologna, Italy
 ISIS Paolino d'Aquileia, Cividale del Friuli, Italy
 
 
-### Selected Projects
+### Selected Projects 📊
 01. Forest Ecology & Dendrochronology – Gembloux Agro-Bio Tech
 Master's thesis research focused on forest ecology, radial growth, bark necrosis and dendrochronological analysis.
 The project explores forest health and tree responses to environmental factors.
