@@ -8,4 +8,4 @@ I hold a Master's degree in Natural Sciences and Environmental Management, with 
 
 My academic and research experience has allowed me to explore forest ecosystems, environmental monitoring and scientific approaches to understanding ecosystem health.
 
-I am particularly interested in forest conservation, dendrochronology and the application of scientific methods to environmental assessment.# Forest-Environmental-Sciences.
+I am particularly interested in forest conservation, dendrochronology and the application of scientific methods to environmental assessment.
